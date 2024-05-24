@@ -85,7 +85,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     thickness: 2,
                   ),
                 ),
-                Text('OR'),
+                Text('and'),
                 Flexible(
                     child: Divider(
                   thickness: 2,
